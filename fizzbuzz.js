@@ -1,4 +1,4 @@
-/* Fizz Buzz exercice: 
+/* FizzBuzz exercise: 
 
 Counting progressively from 1 to 100: 
 
